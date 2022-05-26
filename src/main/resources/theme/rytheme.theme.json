@@ -1,0 +1,98 @@
+{
+  "author": "Ry",
+  "dark": false,
+  "name": "ryTheme",
+  "editorScheme": "theme/rytheme.xml",
+  "colors": {
+    "tan": "#FFEFC3",
+    "red": "#180000",
+    "lighterred": "#ff9191",
+    "white": "#F0F0F0",
+    "black": "#000000"
+  },
+  "ui": {
+    "*": {
+      "selectionBackground": "lighterred",
+      "foreground": "red",
+      "background": "tan"
+    },
+    "ActionButton.hoverBackground": "lighterred",
+    "ActionButton.hoverBorderColor": "lighterred",
+
+    "Button.foreground": "white",
+    "Button.background": "tan",
+    "Button.default.endBackground": "lighterred",
+    "Button.default.endBorderColor": "lighterred",
+    "Button.default.focusColor": "lighterred",
+    "Button.default.focusedBorderColor": "lighterred",
+    "Button.default.startBackground": "lighterred",
+    "Button.default.startBorderColor": "lighterred",
+    "Button.disabledBorderColor": "white",
+    "Button.startBackground": "red",
+    "Button.startBorderColor": "tan",
+    "Button.endBackground": "red",
+    "Button.endBorderColor": "tan",
+
+    "ComboBoxButton.background": "lighterred",
+
+    "ComboBox.background": "tan",
+    "ComboBox.selectionBackground": "lighterred",
+
+
+    "CheckBox.background": "tan",
+    "CheckBox.foreground": "red",
+
+    "Label.foreground": "red",
+    
+
+    "Panel.background": "tan",
+    "Panel.foreground": "red",
+
+    "Popup.Header.activeBackground": "tan",
+
+    "Menu.background": "tan",
+    "Menu.foreground": "red",
+    "MenuItem.foreground": "lighterred",
+
+    "TabbedPane.background": "tan",
+
+    "Editor.background": "tan",
+
+    "EditorTabs.background": "tan",
+    "EditorTabs.inactiveUnderlineColor": "red",
+    "EditorTabs.underlinedTabBackground": "tan",
+    "EditorTabs.underlinedTabForeground": "red",
+    "EditorTabs.underlineColor": "lighterred",
+
+
+    "List.background": "tan",
+
+    "Notification.background": "tan",
+    "Notification.foreground": "red",
+
+    "OptionPane.background": "tan",
+
+    "SidePanel.background": "tan",
+
+    "SearchEverywhere.SearchField.background": "tan",
+    "SearchEverywhere.Header.background": "tan",
+    "SearchEverywhere.Tab.selectedBackground": "lighterred",
+
+    "TableHeader.background": "tan",
+    "Table.background": "tan",
+
+    "TextPane.background": "tan",
+
+    "ToolWindow.Header.inactiveBackground": "tan",
+    "ToolWindow.Header.background": "lighterred",
+
+    "Tree.background": "tan",
+    "Tree.foreground": "red",
+    "Tree.selectionBackground": "lighterred",
+
+    "TextField.background": "tan",
+
+    "WelcomeScreen.background": "tan"
+
+  }
+}
