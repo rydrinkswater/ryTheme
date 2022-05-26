@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.rydrinkswater.rytheme.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.rydrinkswater.rytheme.MyBundle
 
 class MyApplicationService {
 
